@@ -1,7 +1,5 @@
 # Assignment 4: Heap Data Structures — Implementation, Analysis, and Applications
 
-**Author:** Your Name  
-**Date:** 8 November 2025
 
 ## Overview
 This report presents:
